@@ -1,0 +1,12 @@
+C:\Users\PELİN\Desktop\Terzi Takip Otomasyonu\Terzi Takip Otomasyonu\bin\Debug\Terzi Takip Otomasyonu.exe.config
+C:\Users\PELİN\Desktop\Terzi Takip Otomasyonu\Terzi Takip Otomasyonu\obj\Debug\Terzi Takip Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\PELİN\Desktop\Terzi Takip Otomasyonu\Terzi Takip Otomasyonu\obj\Debug\Terzi_Takip_Otomasyonu.Form1.resources
+C:\Users\PELİN\Desktop\Terzi Takip Otomasyonu\Terzi Takip Otomasyonu\obj\Debug\Terzi_Takip_Otomasyonu.frmKıyafetler.resources
+C:\Users\PELİN\Desktop\Terzi Takip Otomasyonu\Terzi Takip Otomasyonu\obj\Debug\Terzi_Takip_Otomasyonu.frmMüsteriler.resources
+C:\Users\PELİN\Desktop\Terzi Takip Otomasyonu\Terzi Takip Otomasyonu\obj\Debug\Terzi_Takip_Otomasyonu.frmÖdeme.resources
+C:\Users\PELİN\Desktop\Terzi Takip Otomasyonu\Terzi Takip Otomasyonu\obj\Debug\Terzi Takip Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\PELİN\Desktop\Terzi Takip Otomasyonu\Terzi Takip Otomasyonu\obj\Debug\Terzi_Takip_Otomasyonu.Islem.resources
+C:\Users\PELİN\Desktop\Terzi Takip Otomasyonu\Terzi Takip Otomasyonu\obj\Debug\Terzi_Takip_Otomasyonu.Adres.resources
+C:\Users\PELİN\Desktop\Terzi Takip Otomasyonu\Terzi Takip Otomasyonu\obj\Debug\Terzi_Takip_Otomasyonu.Ölçü.resources
+C:\Users\PELİN\Desktop\Terzi Takip Otomasyonu\Terzi Takip Otomasyonu\obj\Debug\Terzi_Takip_Otomasyonu.Giriş.resources
+C:\Users\PELİN\Desktop\Terzi Takip Otomasyonu\Terzi Takip Otomasyonu\obj\Debug\Terzi_Takip_Otomasyonu.Properties.Resources.resources
